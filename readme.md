@@ -10,4 +10,4 @@ Implement a data processing module which takes a dataset URL as input and return
 
 There should be a top level object or function ? calculate("http://...").., which returns a data structure with the above information, something like { number_functional: ..., number_water_points: { communityA: ..., }, community_ranking: ... }
 
-Sample test results Successful Sample Response https://github.com/ngarivictor/code_test/blob/master/script/output.txt
+Sample test results Successful Sample Response https://github.com/ngarivictor/code_test/blob/master/output.txt
